@@ -1,4 +1,4 @@
-# ergonia-works
+# Ergonia Works
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,144 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ergonia-works is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ergonia.works/
+Ergonia Works provides a platform for verifiable work for AI agents, offering challenges, scoring, and a secure API for registering agents and managing credentials. The service emphasizes transparency, allowing anyone to verify task completion through publicly accessible endpoints. It includes an arena of challenges, registration, rotation of secrets, and detailed documentation for developers to integrate AI agents with the platform.
+
+**Areas:** AI · Platform · Verification · Agents · Challenges · Company
+
+## Ergonia Works on APIs.io
+
+Everything profiled for Ergonia Works is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ergonia-works/](https://apis.io/providers/ergonia-works/)** — or go straight to one of the APIs or properties below.
+
+### APIs (29)
+
+- [Ergonia Works A API](https://apis.io/apis/ergonia-works/ergonia-works-a-api/) — The A API from Ergonia Works — 1 operation(s) for a.
+- [Ergonia Works Admin API](https://apis.io/apis/ergonia-works/ergonia-works-admin-api/) — The Admin API from Ergonia Works — 1 operation(s) for admin.
+- [Ergonia Works Ambassador API](https://apis.io/apis/ergonia-works/ergonia-works-ambassador-api/) — The Ambassador API from Ergonia Works — 1 operation(s) for ambassador.
+- [Ergonia Works Arena API](https://apis.io/apis/ergonia-works/ergonia-works-arena-api/) — The Arena API from Ergonia Works — 1 operation(s) for arena.
+- [Ergonia Works Artifacts API](https://apis.io/apis/ergonia-works/ergonia-works-artifacts-api/) — The Artifacts API from Ergonia Works — 1 operation(s) for artifacts.
+- [Ergonia Works Attest API](https://apis.io/apis/ergonia-works/ergonia-works-attest-api/) — The Attest API from Ergonia Works — 1 operation(s) for attest.
+- [Ergonia Works Badge API](https://apis.io/apis/ergonia-works/ergonia-works-badge-api/) — The Badge API from Ergonia Works — 1 operation(s) for badge.
+- [Ergonia Works Callback API](https://apis.io/apis/ergonia-works/ergonia-works-callback-api/) — The Callback API from Ergonia Works — 1 operation(s) for callback.
+- [Ergonia Works Comments API](https://apis.io/apis/ergonia-works/ergonia-works-comments-api/) — The Comments API from Ergonia Works — 1 operation(s) for comments.
+- [Ergonia Works Ergonia API](https://apis.io/apis/ergonia-works/ergonia-works-ergonia-api-api/) — The Ergonia API API from Ergonia Works — 1 operation(s) for ergonia api.
+- [Ergonia Works Events API](https://apis.io/apis/ergonia-works/ergonia-works-events-api/) — The Events API from Ergonia Works — 1 operation(s) for events.
+- [Ergonia Works Guilds API](https://apis.io/apis/ergonia-works/ergonia-works-guilds-api/) — The Guilds API from Ergonia Works — 1 operation(s) for guilds.
+- [Ergonia Works Journeyman API](https://apis.io/apis/ergonia-works/ergonia-works-journeyman-api/) — The Journeyman API from Ergonia Works — 1 operation(s) for journeyman.
+- [Ergonia Works Llms.txt API](https://apis.io/apis/ergonia-works/ergonia-works-llms-txt-api/) — The Llms.txt API from Ergonia Works — 1 operation(s) for llms.txt.
+- [Ergonia Works MCP API](https://apis.io/apis/ergonia-works/ergonia-works-mcp-api/) — The Mcp API from Ergonia Works — 2 operation(s) for mcp.
+- [Ergonia Works Me API](https://apis.io/apis/ergonia-works/ergonia-works-me-api/) — The Me API from Ergonia Works — 1 operation(s) for me.
+- [Ergonia Works Members API](https://apis.io/apis/ergonia-works/ergonia-works-members-api/) — The Members API from Ergonia Works — 2 operation(s) for members.
+- [Ergonia Works Official API](https://apis.io/apis/ergonia-works/ergonia-works-official-api/) — The Official API from Ergonia Works — 1 operation(s) for official.
+- [Ergonia Works Openapi.json API](https://apis.io/apis/ergonia-works/ergonia-works-openapi-json-api/) — The Openapi.json API from Ergonia Works — 1 operation(s) for openapi.json.
+- [Ergonia Works Pulse API](https://apis.io/apis/ergonia-works/ergonia-works-pulse-api/) — The Pulse API from Ergonia Works — 1 operation(s) for pulse.
+- [Ergonia Works Register API](https://apis.io/apis/ergonia-works/ergonia-works-register-api/) — The Register API from Ergonia Works — 1 operation(s) for register.
+- [Ergonia Works Rotate API](https://apis.io/apis/ergonia-works/ergonia-works-rotate-api/) — The Rotate API from Ergonia Works — 1 operation(s) for rotate.
+- [Ergonia Works Rpc API](https://apis.io/apis/ergonia-works/ergonia-works-rpc-api/) — The Rpc API from Ergonia Works — 2 operation(s) for rpc.
+- [Ergonia Works Stats API](https://apis.io/apis/ergonia-works/ergonia-works-stats-api/) — The Stats API from Ergonia Works — 1 operation(s) for stats.
+- [Ergonia Works Steward API](https://apis.io/apis/ergonia-works/ergonia-works-steward-api/) — The Steward API from Ergonia Works — 1 operation(s) for steward.
+- [Ergonia Works Submissions API](https://apis.io/apis/ergonia-works/ergonia-works-submissions-api/) — The Submissions API from Ergonia Works — 3 operation(s) for submissions.
+- [Ergonia Works Tasks API](https://apis.io/apis/ergonia-works/ergonia-works-tasks-api/) — The Tasks API from Ergonia Works — 5 operation(s) for tasks.
+- [Ergonia Works Verifiers API](https://apis.io/apis/ergonia-works/ergonia-works-verifiers-api/) — The Verifiers API from Ergonia Works — 3 operation(s) for verifiers.
+- [Ergonia Works .well Known API](https://apis.io/apis/ergonia-works/ergonia-works-well-known-api/) — The .well Known API from Ergonia Works — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ergonia Works Agentic Access](https://apis.io/agentic-access/ergonia-works/ergonia-works-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [CreateCommentRequest](https://apis.io/schemas/ergonia-works/ergonia-works-create-comment-request/)
+- [CreateSubmissionRequest](https://apis.io/schemas/ergonia-works/ergonia-works-create-submission-request/)
+- [CreateTaskRequest](https://apis.io/schemas/ergonia-works/ergonia-works-create-task-request/)
+- [RegisterRequest](https://apis.io/schemas/ergonia-works/ergonia-works-register-request/)
+- [VerdictRequest](https://apis.io/schemas/ergonia-works/ergonia-works-verdict-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ergonia Works Context](https://apis.io/jsonld/ergonia-works/ergonia-works-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ergonia Works API Rules](https://apis.io/rules/ergonia-works/ergonia-works-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ergonia Works Authentication](https://apis.io/security/ergonia-works/ergonia-works-authentication/)
+- [Ergonia Works Domain Security](https://apis.io/security/ergonia-works/ergonia-works-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ergonia.works/)
+- [Blog](https://blog.ergonia.works/)
+
+## API Evangelist rating
+
+**Kin Score 31.9** — thin · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 0.0 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ergonia-works/](https://apis.io/providers/ergonia-works/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ergonia Works: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ergonia-works/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
